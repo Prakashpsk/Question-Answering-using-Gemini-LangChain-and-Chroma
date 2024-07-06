@@ -3,6 +3,9 @@
 ### Introduction ℹ️
 Gemini, LangChain, and Chroma form a powerful trio for creating applications that leverage generative AI models to answer questions using data from websites.
 
+
+![Gemini, LangChain](https://github.com/Prakashpsk/Question-Answering-using-Gemini-LangChain-and-Chroma/blob/main/qustion%20answer%20git%20hub.jpg)
+
 ### Skills/Concepts Developed 🚀
 - Integrating generative AI models (Gemini) with LangChain
 - Utilizing Chroma for efficient storage and retrieval of embeddings
